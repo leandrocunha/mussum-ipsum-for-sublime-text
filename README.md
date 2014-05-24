@@ -3,6 +3,11 @@
 Sublime Text 2 autocomplete to generatis some Mussum Ipsum paragraphis.
 
 
+## Install
+
+Copy the files to your Packages directory.
+
+
 ## Usage
 
 With a html opened, type
