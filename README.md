@@ -5,7 +5,7 @@ Sublime Text 2 autocomplete to generatis some Mussum Ipsum paragraphis.
 
 ## Install
 
-Copy the files to your Packages directory.
+To install through Package Control, find for Mussum Ipsum.
 
 
 ## Usage
